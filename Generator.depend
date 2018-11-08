@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1541690962 source:c:\users\iginnaty\documents\generator\main.cpp
+	<iostream>
+	<fstream>
+	"main.h"
+	"Math/Noise/simplex.h"
+	"World/Chunk/chunk.h"
+
+1538679331 c:\users\iginnaty\documents\generator\console\console.h
+	"../ESTL/Returns/estl_returns.hpp"
+	<vector>
+	<string>
+
+1538678906 c:\users\iginnaty\documents\generator\estl\returns\estl_returns.hpp
+	<string>
+
+1538680146 source:c:\users\iginnaty\documents\generator\console\console.cpp
+	"console.h"
+	<iostream>
+	<cstdio>
+
+1541608370 source:c:\users\iginnaty\documents\generator\math\noise\simplex.cpp
+	"simplex.h"
+	"../fast_round.hpp"
+
+1541608330 c:\users\iginnaty\documents\generator\math\noise\simplex.h
+	"noise_interface.hpp"
+
+1541607919 c:\users\iginnaty\documents\generator\math\noise\noise_interface.hpp
+
+1539622459 c:\users\iginnaty\documents\generator\math\fast_round.hpp
+
+1541690999 source:c:\users\iginnaty\documents\generator\world\chunk\chunk.cpp
+	"chunk.h"
+
+1541692530 c:\users\iginnaty\documents\generator\world\chunk\chunk.h
+	"../../main.h"
+	"../../Math/Noise/noise_interface.hpp"
+
+1541690908 c:\users\iginnaty\documents\generator\main.h
+
